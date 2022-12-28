@@ -1,4 +1,4 @@
-Crypto currency tracker 
+# Cryptocurrency tracker 
 
 It is a web app created using React js and Axios libraries that gives information about popular crypto currencies of the world 
 
